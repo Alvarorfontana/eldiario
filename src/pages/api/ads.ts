@@ -30,7 +30,7 @@ function b64decodeUtf8(b64: string): string {
 }
 
 const REPO = 'Alvarorfontana/el-diario';
-const BRANCH = 'master';
+const BRANCH = 'main';
 const FILE_PATH = 'data/ads.json';
 
 interface Ad {
