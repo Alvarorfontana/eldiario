@@ -15,7 +15,7 @@ function getEnv(locals: ApiContext['locals']): RuntimeEnv {
 }
 
 const REPO = 'Alvarorfontana/el-diario';
-const BRANCH = 'master';
+const BRANCH = 'main';
 const CONTENT_PATH = 'src/content/articulos';
 
 function ghHeaders(token: string) {
