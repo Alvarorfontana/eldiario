@@ -1,7 +1,7 @@
 export const prerender = false;
 
 const REPO = 'Alvarorfontana/el-diario';
-const BRANCH = 'master';
+const BRANCH = 'main';
 const FILE_PATH = 'data/subscribers.json';
 
 // ─── Acceso portable a variables de entorno ────────────────────────────────
