@@ -3,7 +3,7 @@ export const prerender = false;
 import { notifyNewComment } from '../../lib/email';
 
 const REPO = 'Alvarorfontana/el-diario';
-const BRANCH = 'master';
+const BRANCH = 'main';
 const FILE_PATH = 'data/comments.json';
 
 // ─── Acceso portable a variables de entorno ────────────────────────────────
