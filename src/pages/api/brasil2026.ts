@@ -3,7 +3,7 @@ export const prerender = false;
 import datosLocales from '../../../data/brasil2026.json';
 
 const REPO = 'Alvarorfontana/el-diario';
-const BRANCH = 'master';
+const BRANCH = 'main';
 const FILE_PATH = 'data/brasil2026.json';
 
 type RuntimeEnv = Record<string, string | undefined>;
